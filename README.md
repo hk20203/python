@@ -10,7 +10,7 @@
 
  - 安装Python3.6+环境
  - 下载并解压项目代码包
- - 修改`config.yml`文件中的相关配置内容
+ - 修改`config.yml`文件中的相关配置内容。注！！！：将本项目的配置文件修改并复制到腾讯云生成的config.yml中
  - 运行`pip install -r requirements.txt -t ./ -i https://mirrors.aliyun.com/pypi/simple`安装项目依赖
  - 执行`Python index.py`即可运行项目
  - 注：配置中地址符合四方校区，其他校区请自行修改
