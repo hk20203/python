@@ -13,6 +13,7 @@
  - 修改`config.yml`文件中的相关配置内容
  - 运行`pip install -r requirements.txt -t ./ -i https://mirrors.aliyun.com/pypi/simple`安装项目依赖
  - 执行`Python index.py`即可运行项目
+ - 注：配置中地址符合四方校区，其他校区请自行修改
 
 #### 📅示例 腾讯云函数平台
 
