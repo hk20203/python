@@ -51,7 +51,7 @@ users:
         # password 密码
         password: ''
         # 地址信息
-        address: '中国山东省青岛市市北区洛阳路街道开拓路'
+        address: '中国山东省青岛市市北区xxxxx'
         notifyOption: 
             # method和顶部参数一致，不填默认按照顶部参数执行
             # method: 0
@@ -67,7 +67,7 @@ users:
         # 表单信息
         forms:
             - form:
-                  value: '山东省/青岛市/市北区/B111'
+                  value: '山东省/青岛市/市北区/xxxxx'
             - form:
                   title: 今日具体所在地
                   value: '37.2℃及以下'
@@ -105,7 +105,7 @@ users:
         # 密码
         password: ''
         # 定位位置信息
-        address: '中国山东省青岛市市北区洛阳路街道开拓路'
+        address: '中国山东省青岛市市北区xxxxx'
         notifyOption: 
             # method和顶部参数一致，不填默认按照顶部参数执行
             # method: 0
@@ -123,7 +123,7 @@ users:
         # 表单信息
         forms:
             - form:
-                  value: '山东省/青岛市/市北区/B111'
+                  value: '山东省/青岛市/市北区/xxxxx'
             - form:
                   title: 今日具体所在地
                   value: '37.2℃及以下'
