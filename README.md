@@ -10,7 +10,7 @@
 
  - 安装Python3.6+环境
  - 下载并解压项目代码包
- - 修改`config.yml`文件中的相关配置内容。注！！！：将本项目的配置文件修改并复制到腾讯云生成的config.yml中
+ - 将本项目的config.yml配置文件修改。
  - 运行`pip install -r requirements.txt -t ./ -i https://mirrors.aliyun.com/pypi/simple`安装项目依赖
  - 执行`Python index.py`即可运行项目
  - 注：配置中地址符合四方校区，其他校区请自行修改
@@ -38,7 +38,7 @@
 	wget -O setup.sh https://github.com.cnpmjs.org/carltonhere/auto-cpdaily/releases/download/Initial/Setup.sh && sh setup.sh
 	```
 	
- - 在编辑器左边的`src`目录下选择`config.yml`，配置你的用户签到信息，注意删除多余的示例并注意每行行首的缩进
+ - 在编辑器左边的`src`目录下选择`config.yml`，将本项目的配置文件修改并复制到腾讯云生成的config.yml中，注意删除多余的示例并注意每行行首的缩进（注！！！：本项目的配置文件！）
  - 最后，点击下方的`部署`即可完成部署(部署完成后，你可以点击`测试`按钮测试签到任务)
 
 #### 🔐进阶使用
