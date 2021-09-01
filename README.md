@@ -1,5 +1,5 @@
-青岛科技大学今日校园签到，信息采集等自动化
-该项目是由[ZimoLoveShuang/auto-submit](https://github.com/ZimoLoveShuang/auto-submit)仓库和[thriving123/f*kTodayStudy](https://github.com/thriving123/fuckTodayStudy)仓库基础上发展而来，请自行前往STAR，我们感谢原作者的努力与付出。
+青岛科技大学今日校园签到，信息采集等自动化  
+该项目是由[ZimoLoveShuang/auto-submit](https://github.com/ZimoLoveShuang/auto-submit)仓库和[thriving123/f*kTodayStudy](https://github.com/thriving123/fuckTodayStudy)仓库基础上发展而来，请自行前往STAR，我们感谢原作者的努力与付出。感谢原作者
 ### 📃免责声明
 
 本项目为Python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用本项目进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。本项目对您如有困扰请联系我们删除。
