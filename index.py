@@ -43,7 +43,7 @@ def main():
                 msg = str(e)
                 ret = False
             ntm = getTimeStr()
-            if ret == True:*
+            if ret == True:
                 #此处需要注意就算提示成功也不一定是真的成功，以实际为准
                 log(msg)
                 if 'SUCCESS' in msg:
